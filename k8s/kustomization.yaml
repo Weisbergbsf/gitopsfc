@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: weisbergbsf/gitopsfc
-  newTag: newTag
+  newTag: b78e81584501aefd1231c450818161e414b2f449
